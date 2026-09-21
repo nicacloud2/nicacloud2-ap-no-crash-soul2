@@ -165,7 +165,7 @@ local GameConfig = {
 
     },
     ["MuayThaiAnims"] = {
-        ["rbxassetid://137299369381761"] = {
+        ["rbxassetid://133748072084761"] = {
             DisplayName = "M2",
             ReactionTime = 0.3,
         },
