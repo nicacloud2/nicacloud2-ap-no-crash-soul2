@@ -78,7 +78,7 @@ local GameName = "Gakuran"
 
 local GameConfig = {
     ["KarateAnims"] = {
-        ["rbxassetid://116278224437295"] = {
+        ["rbxassetid://136346659171696"] = {
             DisplayName = "1stM1",
             ReactionTime = 0.15,
         },
@@ -86,7 +86,7 @@ local GameConfig = {
             DisplayName = "2ndM1",
             ReactionTime = 0.15,
         },
-        ["rbxassetid://72779501873271"] = {
+        ["rbxassetid://72779501873271"] = { 
             DisplayName = "3rdM1",
             ReactionTime = 0.15,
         },
@@ -94,7 +94,7 @@ local GameConfig = {
             DisplayName = "4thM1",
             ReactionTime = 0.15,
         },
-        ["rbxassetid://96466099895892"] = {
+        ["rbxassetid://116278224437295"] = {
             DisplayName = "M2",
             ReactionTime = 0.3,
         },
@@ -165,7 +165,7 @@ local GameConfig = {
 
     },
     ["MuayThaiAnims"] = {
-        ["rbxassetid://133748072084761"] = {
+        ["rbxassetid://137299369381761"] = {
             DisplayName = "M2",
             ReactionTime = 0.3,
         },
@@ -475,7 +475,7 @@ local GameConfig = {
     },                                  
     ["Dragon"] = {
         ["rbxassetid://81350056849630"] = { DisplayName = "4thM1", ReactionTime = 0.1 },
-        ["rbxassetid://101059515516534"] = { DisplayName = "M2", ReactionTime = 0.1 },
+        ["rbxassetid://101059515516534"] = { DisplayName = "M2", ReactionTime = 0.34 },
         ["rbxassetid://90632031214738"] = { DisplayName = "1stM1", ReactionTime = 0.1 },
         ["rbxassetid://129870265426519"] = { DisplayName = "2ndM1", ReactionTime = 0.1 },
         ["rbxassetid://103119271372106"] = { DisplayName = "3rdM1", ReactionTime = 0.1 },
