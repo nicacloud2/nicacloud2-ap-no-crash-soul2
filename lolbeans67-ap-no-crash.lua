@@ -466,48 +466,27 @@ local GameConfig = {
             DisplayName = "M2"
         },
     },
-  ["Jin"] = {
-        ["rbxassetid://115508221180588"] = {
-            DisplayName = "4thM1",
-            ReactionTime = 0.1
-        },
-        ["rbxassetid://90986005545750"] = {
-            DisplayName = "M2",
-            ["ReactionTime"] = 0.1,
-        },
-        ["rbxassetid://89404705737555"] = {
-            DisplayName = "1stM1",
-            ReactionTime = 0.1
-        },
-        ["rbxassetid://126407816250012"] = {
-            DisplayName = "2ndM1",
-            ReactionTime = 0.1
-        },
-        ["rbxassetid://111599179234006"] = {
-            DisplayName = "3rdM1",
-            ReactionTime = 0.1
-        },
+    ["Jin"] = {
+        ["rbxassetid://115508221180588"] = { DisplayName = "4thM1", ReactionTime = 0.1 },
+        ["rbxassetid://90986005545750"] = { DisplayName = "M2", ["ReactionTime"] = 0.1 },
+        ["rbxassetid://89404705737555"] = { DisplayName = "1stM1", ReactionTime = 0.1 },
+        ["rbxassetid://126407816250012"] = { DisplayName = "2ndM1", ReactionTime = 0.1 },
+        ["rbxassetid://111599179234006"] = { DisplayName = "3rdM1", ReactionTime = 0.1 },
+    },                                  
     ["Dragon"] = {
-        ["rbxassetid://81350056849630"] = {
-            DisplayName = "4thM1",
-            ReactionTime = 0.1
+        ["rbxassetid://81350056849630"] = { DisplayName = "4thM1", ReactionTime = 0.1 },
+        ["rbxassetid://101059515516534"] = { DisplayName = "M2", ["ReactionTime"] = 0.1 },
+        ["rbxassetid://90632031214738"] = { DisplayName = "1stM1", ReactionTime = 0.1 },
+        ["rbxassetid://129870265426519"] = { DisplayName = "2ndM1", ReactionTime = 0.1 },
+        ["rbxassetid://103119271372106"] = { DisplayName = "3rdM1", ReactionTime = 0.1 },
+    },                                    
+    ["Debug"] = {
+        ["http://www.roblox.com/asset/?id=125750702"] = {
+            DisplayName = "M1",
+            ReactionTime = 0.3,
         },
-        ["rbxassetid://101059515516534"] = {
-            DisplayName = "M2",
-            ["ReactionTime"] = 0.1,
-        },
-        ["rbxassetid://90632031214738"] = {
-            DisplayName = "1stM1",
-            ReactionTime = 0.1
-        },
-        ["rbxassetid://129870265426519"] = {
-            DisplayName = "2ndM1",
-            ReactionTime = 0.1
-        },
-        ["rbxassetid://103119271372106"] = {
-            DisplayName = "3rdM1",
-            ReactionTime = 0.1
-        },
+    },
+
     ["Debug"] = {
         ["http://www.roblox.com/asset/?id=125750702"] = {
             DisplayName = "M1",
