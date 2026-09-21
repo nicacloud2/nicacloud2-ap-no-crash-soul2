@@ -356,7 +356,7 @@ local GameConfig = {
         ["rbxassetid://139691512657916"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
         ["rbxassetid://94267870513016"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
         ["rbxassetid://107365196082362"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
-        ["rbxassetid://128363063231486"] = { DisplayName = "M2", ReactionTime = 0.25 },
+        ["rbxassetid://80822959210741"] = { DisplayName = "M2", ReactionTime = 0.25 },
     },
     ["CQCAnims"] = {
         -- CQC has multiple M2 tracks, so each variation is registered separately.
