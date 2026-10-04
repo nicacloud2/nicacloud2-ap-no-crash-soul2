@@ -211,7 +211,7 @@ local GameConfig = {
             ReactionTime = 0.17,
         },
         ["rbxassetid://132891856788045"] = {
-            DisplayName = "M2A1",
+            DisplayName = "M2A2",
             ReactionTime = 0.17,
         },
         ["rbxassetid://128921678079615"] = {
