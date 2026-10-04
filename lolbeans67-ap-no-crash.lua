@@ -206,6 +206,14 @@ local GameConfig = {
             DisplayName = "4thM1",
             ReactionTime = 0.17,
         },
+        ["rbxassetid://91675678181806"] = {
+            DisplayName = "M2A1",
+            ReactionTime = 0.17,
+        },
+        ["rbxassetid://132891856788045"] = {
+            DisplayName = "M2A2",
+            ReactionTime = 0.17,
+        },
         ["rbxassetid://128921678079615"] = {
             DisplayName = "M2",
             ParryFunction = function(data)
