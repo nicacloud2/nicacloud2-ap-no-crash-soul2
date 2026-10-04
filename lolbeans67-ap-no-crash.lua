@@ -479,7 +479,47 @@ local GameConfig = {
         ["rbxassetid://90632031214738"] = { DisplayName = "1stM1", ReactionTime = 0.1 },
         ["rbxassetid://129870265426519"] = { DisplayName = "2ndM1", ReactionTime = 0.1 },
         ["rbxassetid://103119271372106"] = { DisplayName = "3rdM1", ReactionTime = 0.1 },
-    },                                    
+    }, 
+    ["PerfectCopyAnims"] = {
+    ["rbxassetid://89266206062347"] = { DisplayName = "1stM1", ReactionTime = 0.10 },
+    ["rbxassetid://118618177788645"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
+    ["rbxassetid://92563642848078"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
+    ["rbxassetid://129685126037621"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
+    ["rbxassetid://84779382426562"] = { DisplayName = "M2", ReactionTime = 0.25 },
+    ["rbxassetid://123851034848865"] = { DisplayName = "M2", ReactionTime = 0.25 },
+},
+
+["AkidoAnims"] = {
+    ["rbxassetid://101667835774312"] = { DisplayName = "1stM1", ReactionTime = 0.10 },
+    ["rbxassetid://72100016327641"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
+    ["rbxassetid://86622096544948"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
+    ["rbxassetid://116579071175823"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
+    ["rbxassetid://113723231962801"] = { DisplayName = "M2", ReactionTime = 0.25 },
+},
+
+["TaijustuAnims"] = {
+    ["rbxassetid://112772003891760"] = { DisplayName = "1stM1", ReactionTime = 0.10 },
+    ["rbxassetid://120968355159054"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
+    ["rbxassetid://134363734889174"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
+    ["rbxassetid://140439623648569"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
+    ["rbxassetid://70666956463595"] = { DisplayName = "M2", ReactionTime = 0.25 },
+},
+
+["GiovannaAnims"] = {
+    ["rbxassetid://135716459366783"] = { DisplayName = "1stM1", ReactionTime = 0.10 },
+    ["rbxassetid://128178940723536"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
+    ["rbxassetid://133339208745195"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
+    ["rbxassetid://129619149164145"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
+    ["rbxassetid://84500842912133"] = { DisplayName = "M2", ReactionTime = 0.25 },
+},
+
+["HikakenAnims"] = {
+    ["rbxassetid://109471728828625"] = { DisplayName = "1stM1", ReactionTime = 0.10 },
+    ["rbxassetid://92152402802393"] = { DisplayName = "2ndM1", ReactionTime = 0.10 },
+    ["rbxassetid://139736320509560"] = { DisplayName = "3rdM1", ReactionTime = 0.14 },
+    ["rbxassetid://80033824766939"] = { DisplayName = "4thM1", ReactionTime = 0.24 },
+    ["rbxassetid://94916233438251"] = { DisplayName = "M2", ReactionTime = 0.25 },
+},
     ["Debug"] = {
         ["http://www.roblox.com/asset/?id=125750702"] = {
             DisplayName = "M1",
